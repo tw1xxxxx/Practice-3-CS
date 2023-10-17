@@ -1,0 +1,7 @@
+C:\Users\mixar\source\repos\Practika3\Practika3\bin\Debug\Practika3.exe.config
+C:\Users\mixar\source\repos\Practika3\Practika3\bin\Debug\Practika3.exe
+C:\Users\mixar\source\repos\Practika3\Practika3\bin\Debug\Practika3.pdb
+C:\Users\mixar\source\repos\Practika3\Practika3\obj\Debug\Practika3.csproj.CoreCompileInputs.cache
+C:\Users\mixar\source\repos\Practika3\Practika3\obj\Debug\Practika3.exe
+C:\Users\mixar\source\repos\Practika3\Practika3\obj\Debug\Practika3.pdb
+C:\Users\mixar\source\repos\Practika3\Practika3\obj\Debug\Practika3.csproj.AssemblyReference.cache
